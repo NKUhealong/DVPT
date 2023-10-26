@@ -28,9 +28,8 @@ The official download of the pre-trained model can be placed in the current dire
 
 1. Clone the repository, and download the pre-trained  models, put them into ./ folder. 
 
-2. And then run the code：python train.py. Note that the hyperparameters and paths should be set beforehand
+2. And then run the code：python DVPT_XX_train.py. Note that the hyperparameters and paths should be set beforehand
 
-3. Once the training is complete, you can run the test.py to test your model. Run the code : python test.py.
 
 ## LICENSE
  Code can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed.
